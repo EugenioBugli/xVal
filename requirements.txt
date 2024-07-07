@@ -1,0 +1,10 @@
+rebound==4.4.1
+numpy==1.25.2
+torch==2.3.0+cu121
+pandas==2.0.3
+datasets==2.20.0
+transformers==4.41.2
+tokenizers==0.19.1
+tqdm==4.66.4
+matplotlib==3.7.1
+
